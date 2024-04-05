@@ -124,7 +124,7 @@ urlpatterns = [
     path('',views.surfacearea,name="surfacearea")
 ]
 
-
+```
 ## SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2024-04-05 094101.png>)
 
